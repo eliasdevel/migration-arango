@@ -1,0 +1,16 @@
+{
+    "name": "root/migration-project",
+    "description": "Migratin mysql to arangodb",
+    "type": "migration",
+    "require": {
+        "triagens/arangodb": "3.3"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Elias Müller",
+            "email": "emuller2@universo.univates.br"
+        }
+    ],
+    "minimum-stability": "beta"
+}
